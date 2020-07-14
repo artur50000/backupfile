@@ -1,0 +1,9 @@
+задача крон на первой машине:
+
+SHELL=/bin/sh
+PATH=/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin
+
+30 19	* * *	root    /usr/local/sbin/FileshareScript.sh
+
+
+
